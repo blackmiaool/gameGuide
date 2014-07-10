@@ -14,6 +14,9 @@
 ![hello world](https://raw.githubusercontent.com/blackmiaool/gameGuide/master/img/4.png)
 * 完成
 
+使用github客户端写更新的方法
+=========
+fork然后提交pull request即可
 
 
 
