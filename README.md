@@ -1,18 +1,18 @@
-gameGuideÏîÄ¿½Ì³Ì
+ï»¿gameGuideé¡¹ç›®æ•™ç¨‹
 =========
- ÍøÖ·£ºhttps://github.com/blackmiaool/gameGuide
+ ç½‘å€ï¼šhttps://github.com/blackmiaool/gameGuide
 
-Ê¹ÓÃÍøÒ³Ğ´¸üĞÂµÄ·½·¨
+ä½¿ç”¨ç½‘é¡µå†™æ›´æ–°çš„æ–¹æ³•
 =========
-* Step1£º´ò¿ªÄã×ö¹ıµÄ±ÈÈüµÄÎÄ¼ş¼Ğ
+* Step1ï¼šæ‰“å¼€ä½ åšè¿‡çš„æ¯”èµ›çš„æ–‡ä»¶å¤¹
 ![hello world](https://raw.githubusercontent.com/blackmiaool/gameGuide/master/img/1.png)
-* Step2:£¨ÒÔÇ°·æ±­ÎªÀı£©£¬µã»÷ÏîÄ¿ÃûºóÃæµÄ¼ÓºÅ
+* Step2:ï¼ˆä»¥å‰é”‹æ¯ä¸ºä¾‹ï¼‰ï¼Œç‚¹å‡»é¡¹ç›®ååé¢çš„åŠ å·
 ![hello world](https://raw.githubusercontent.com/blackmiaool/gameGuide/master/img/2.png)
-* Step3:½«´ËÎÄ¼şÃüÃûÎªÄê·İ+Ãû×Ö£¬È»ºó¿ªÊ¼Ğ´
+* Step3:å°†æ­¤æ–‡ä»¶å‘½åä¸ºå¹´ä»½+åå­—ï¼Œç„¶åå¼€å§‹å†™
 ![hello world](https://raw.githubusercontent.com/blackmiaool/gameGuide/master/img/3.png)
-* Step4:µã»÷ÍøÒ³ÓÒÏÂ½ÇµÄÂÌÉ«°´Å¥£¨Commit new file£©
+* Step4:ç‚¹å‡»ç½‘é¡µå³ä¸‹è§’çš„ç»¿è‰²æŒ‰é’®ï¼ˆCommit new fileï¼‰
 ![hello world](https://raw.githubusercontent.com/blackmiaool/gameGuide/master/img/4.png)
-* Íê³É
+* å®Œæˆ
 
 
 
